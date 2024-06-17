@@ -1,16 +1,2 @@
-# weather
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+WeatherWise_FlutterApp
+WeatherWise: Your Personal Weather Companion WeatherWise keeps you prepared with accurate weather updates and forecasts. Search and save cities, access detailed reports, and stay informed about air quality. Enjoy dynamic backgrounds, a customizable dashboard, and easy navigation. WeatherWise ensures your data is always available, even offline.
