@@ -33,7 +33,7 @@ The Weather App is a feature-rich application designed to provide users with acc
 
 Watch the video below to see the app in action and understand its functionalities better.
 
-[![Link to Video](https://github.com/DevAnuragT/WeatherWise_FlutterApp/assets/97083108/58e6a90e-ecbb-4323-b0fe-15477f0d09ad)
+## [Drive Link to Video](https://drive.google.com/file/d/1Zf0oq5hMNyMOsbjq-8jjK2esZ3Ccg2nl/view?usp=drive_link).
 
 ## Technical Implementation
 
