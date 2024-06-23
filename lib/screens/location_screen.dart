@@ -13,7 +13,7 @@ class LocationScreen extends StatefulWidget {
   final weather;
   final airQuality;
 
-  LocationScreen({this.weather, this.airQuality});
+  LocationScreen({required this.weather, this.airQuality});
 
   @override
   _LocationScreenState createState() => _LocationScreenState();

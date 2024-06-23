@@ -48,13 +48,12 @@ class _LoadingScreenState extends State<LoadingScreen> {
     // At this point, location permissions are granted, so proceed to get weather data
     var weather = await WeatherModel().getLocationWeather();
     var airQuality = await WeatherModel().getAirQuality();
-    Navigator.push(
+    Navigator.pushAndRemoveUntil(
         context,
         MaterialPageRoute(
             builder: (context) => LocationScreen(
-              weather: weather,
-              airQuality: airQuality,
-            )));
+                weather: weather, airQuality: airQuality),),
+                (route) => false);
   }
 
   @override
